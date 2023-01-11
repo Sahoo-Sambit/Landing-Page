@@ -59,7 +59,7 @@ button{
     margin-top: 35px;
 }
 section{
-    background-image: url(/images/spacex.jpg);
+    background-image: url(images/spacex.jpg);
     height: 100vh;
     opacity: 0.5;
 }
